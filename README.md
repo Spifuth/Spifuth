@@ -99,12 +99,14 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=spifuth&theme=tokyonight&hide_border=true" alt="streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=spifuth&theme=tokyonight&hide_border=true" alt="streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-spifuth.vercel.app/api?username=spifuth&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="stats"/>
-  <img width="49%" src="https://github-readme-stats-spifuth.vercel.app/api/top-langs?username=spifuth&show_icons=true&theme=tokyonight&locale=fr&layout=compact&hide_border=true" alt="languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=spifuth&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=spifuth&show_icons=true&theme=tokyonight&locale=fr&layout=compact&hide_border=true" alt="languages"/>
 </p>
 
 ---
