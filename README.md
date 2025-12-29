@@ -91,7 +91,7 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spifuth&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=spifuth&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies"/>
 </p>
 
 ---
@@ -99,12 +99,12 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spifuth&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=spifuth&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=spifuth&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=spifuth&show_icons=true&theme=tokyonight&locale=fr&layout=compact&hide_border=true" alt="languages"/>
+  <img width="49%" src="https://github-readme-stats-spifuth.vercel.app/api?username=spifuth&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats-spifuth.vercel.app/api/top-langs?username=spifuth&show_icons=true&theme=tokyonight&locale=fr&layout=compact&hide_border=true" alt="languages"/>
 </p>
 
 ---
@@ -112,18 +112,8 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spifuth&theme=tokyo-night&hide_border=true" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spifuth&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" alt="contribution graph"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/spifuth/spifuth/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
-
-<!-- Pour activer le snake, il faut créer un workflow GitHub Actions - je peux t'aider si tu veux -->
 
 ---
 
