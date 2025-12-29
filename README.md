@@ -29,7 +29,7 @@
 name: Spifuth
 role: Junior Cybersecurity Engineer
 location: France 🇫🇷
-currently_working_on: Fenrir - A Discord Bot in Python
+currently_working_on: AutoVault - Obsidian Vault Manager for SOC/RUN teams
 learning: Python, Discord.py, Web Development
 interests: [Cybersecurity, Automation, Discord Bots, CTF]
 fun_fact: "Please don't ask me anything, I lack knowledge :)"
@@ -38,6 +38,8 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 ---
 
 ## 🔭 Current Project
+
+> **🏦 AutoVault** - CLI tool to automate Obsidian vault management for SOC/RUN operations. Handles folder structures, templates, customer tracking, and integrates with Nmap, Burp Suite & Git.
 
 <a href="https://github.com/Spifuth/AutoVault">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spifuth&repo=AutoVault&theme=tokyonight&hide_border=true" />
