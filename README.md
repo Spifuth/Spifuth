@@ -1,19 +1,140 @@
-<h1 align="center">Hi 👋, I'm Spifuth</h1>
-<h3 align="center">A passionate Junior Cybersecurity Engineer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Spifuth;Junior+Cybersecurity+Engineer;Python+Developer+%7C+Discord+Bot+Creator" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spifuth&label=Profile%20views&color=0e75b6&style=flat" alt="spifuth" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spifuth&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="spifuth" />
+  <img src="https://img.shields.io/github/followers/spifuth?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+</p>
 
-- 🔭 I’m currently working on [Fenrir, a Discord Bot in Python](https://github.com/Spifuth/Claude-Bot/tree/Dev)
+<!-- Liens sociaux -->
+<p align="center">
+  <a href="mailto:github.spifuth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- Ajoute tes liens ici -->
+  <!-- <a href="https://linkedin.com/in/TON_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> -->
+  <!-- <a href="https://tryhackme.com/p/TON_PSEUDO">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a> -->
+</p>
 
-- 🌱 I’m currently learning **Python with discord and some web**
+---
 
-- 💬 Ask me about **Everything ( please do not i lack knowledge :) )**
+## 🚀 About Me
 
-- 📫 How to reach me **github.spifuth@gmail.com**
+```yaml
+name: Spifuth
+role: Junior Cybersecurity Engineer
+location: France 🇫🇷
+currently_working_on: Fenrir - A Discord Bot in Python
+learning: Python, Discord.py, Web Development
+interests: [Cybersecurity, Automation, Discord Bots, CTF]
+fun_fact: "Please don't ask me anything, I lack knowledge :)"
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spifuth&show_icons=true&theme=tokyonight&locale=fr&layout=compact" alt="spifuth" /></p>
+## 🔭 Current Project
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spifuth&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="spifuth" /></p>
+<a href="https://github.com/Spifuth/AutoVault">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spifuth&repo=AutoVault&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+## 🛠️ Tech Stack
+
+<details>
+<summary><b>👨‍💻 Programming Languages</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
+</details>
+
+<details>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+</details>
+
+<details>
+<summary><b>📊 Monitoring & Analytics</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana"/>
+</p>
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Frameworks</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Hugo"/>
+</p>
+</details>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=spifuth&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spifuth&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=spifuth&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=spifuth&show_icons=true&theme=tokyonight&locale=fr&layout=compact&hide_border=true" alt="languages"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spifuth&theme=tokyo-night&hide_border=true" alt="contribution graph"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/spifuth/spifuth/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+
+<!-- Pour activer le snake, il faut créer un workflow GitHub Actions - je peux t'aider si tu veux -->
+
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+</p>
