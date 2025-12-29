@@ -40,7 +40,7 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 ## 🔭 Current Project
 
 <a href="https://github.com/Spifuth/AutoVault">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spifuth&repo=AutoVault&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spifuth&repo=AutoVault&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
