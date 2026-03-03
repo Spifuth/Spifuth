@@ -125,16 +125,6 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 
 ---
 
-## 📐 GitHub Metrics
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
----
-
----
-
 ## 💭 Random Dev Quote
 
 <p align="center">
