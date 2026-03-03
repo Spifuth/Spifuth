@@ -13,12 +13,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <!-- Ajoute tes liens ici -->
-  <!-- <a href="https://linkedin.com/in/TON_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> -->
-  <!-- <a href="https://tryhackme.com/p/TON_PSEUDO">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-  </a> -->
+
+
 </p>
 
 ---
@@ -30,7 +26,7 @@ name: Spifuth
 role: Junior Cybersecurity Engineer
 location: France 🇫🇷
 currently_working_on: AutoVault - Obsidian Vault Manager for SOC/RUN teams
-learning: Python, Discord.py, Web Development
+learning: Python, Discord.py, Bash/Shell, Web Development
 interests: [Cybersecurity, Automation, Discord Bots, CTF]
 fun_fact: "Please don't ask me anything, I lack knowledge :)"
 ```
@@ -43,6 +39,14 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 
 <a href="https://github.com/Spifuth/AutoVault">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spifuth&repo=AutoVault&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Spifuth/FenrirBot">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spifuth&repo=FenrirBot&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Spifuth/GitKeeper">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spifuth&repo=GitKeeper&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
@@ -118,6 +122,16 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=spifuth&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" alt="contribution graph"/>
 </p>
+
+---
+
+## 📐 GitHub Metrics
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
 
 ---
 
