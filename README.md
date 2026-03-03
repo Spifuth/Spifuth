@@ -38,15 +38,15 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 > **🏦 AutoVault** - CLI tool to automate Obsidian vault management for SOC/RUN operations. Handles folder structures, templates, customer tracking, and integrates with Nmap, Burp Suite & Git.
 
 <a href="https://github.com/Spifuth/AutoVault">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spifuth&repo=AutoVault&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spifuth&repo=AutoVault&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/Spifuth/FenrirBot">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spifuth&repo=FenrirBot&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spifuth&repo=FenrirBot&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/Spifuth/GitKeeper">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spifuth&repo=GitKeeper&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=spifuth&repo=GitKeeper&theme=github_dark&hide_border=true" />
 </a>
 
 ---
