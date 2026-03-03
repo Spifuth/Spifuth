@@ -97,7 +97,7 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=spifuth&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=spifuth&theme=github_dark&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies"/>
 </p>
 
 ---
@@ -106,13 +106,13 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=spifuth&theme=tokyonight&hide_border=true" alt="streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=spifuth&theme=github_dark&hide_border=true" alt="streak"/>
   </a>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=spifuth&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="stats"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=spifuth&show_icons=true&theme=tokyonight&locale=fr&layout=compact&hide_border=true" alt="languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=spifuth&show_icons=true&theme=github_dark&hide_border=true&locale=fr" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=spifuth&show_icons=true&theme=github_dark&locale=fr&layout=compact&hide_border=true" alt="languages"/>
 </p>
 
 ---
@@ -120,7 +120,7 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spifuth&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spifuth&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="contribution graph"/>
 </p>
 
 ---
@@ -128,7 +128,7 @@ fun_fact: "Please don't ask me anything, I lack knowledge :)"
 ## 💭 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="quote"/>
 </p>
 
 ---
